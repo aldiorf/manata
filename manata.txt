@@ -1,0 +1,3 @@
+manata group
+- manata.id (manataPOS, manataFUND, manataON, manataSUPPLY)
+- manata.io 
